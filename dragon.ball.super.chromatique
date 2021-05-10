@@ -1,0 +1,490 @@
+{
+  "title": "Dragon Ball Super",
+  "description": "L'histoire de Dragon Ball Super est une suite directe du manga d'Akira Toriyama et de la série Dragon Ball Z. \n\nElle se situe après la fin de l'arc Boo et avant le début du 28e Championnat du Monde d'arts martiaux. \n\nElle ne reprend donc pas le scénario de la série Dragon Ball GT. \n\nEdition française en couleurs par Chromatique. 
+Discord : https://discord.gg/3HH8Usj",
+  "artist": "Toyotarō",
+  "author": "Akira Toriyama",
+  "cover": "https://www.glenat.com/sites/default/files/images/livres/couv/9782344019887-001-T.jpeg",
+  "chapters": {
+    "01": {
+      "title": "Le rêve prémonitoire du dieu de la destruction",
+      "volume": "01",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/6IIIFh0/"
+      },
+      "last_updated": "1491343200"
+    },
+    "02": {
+      "title": "La défaite de Goku",
+      "volume": "01",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/64omst5/"
+      },
+      "last_updated": "1491343200"
+    },
+    "03": {
+      "title": "La fureur de Beerus",
+      "volume": "01",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/TckGFXM/"
+      },
+      "last_updated": "1491343200"
+    },
+    "04": {
+      "title": "Battle of Gods",
+      "volume": "01",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/1ZjSK78/"
+      },
+      "last_updated": "1491343200"
+    },
+     "05": {
+      "title": "Beerus et Champa",
+      "volume": "01",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/d5B2dX6/"
+      },
+      "last_updated": "1491343200"
+    },
+     "06": {
+      "title": "Préparatifs du tournoi",
+      "volume": "01",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/jo3GicX/"
+      },
+      "last_updated": "1491343200"
+    },
+    "07": {
+      "title": "Les guerriers de l'univers 6",
+      "volume": "01",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/3Lt1q9i/"
+      },
+      "last_updated": "1491343200"
+    },
+    "08": {
+      "title": "Début du tournoi !",
+      "volume": "01",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/X52hY9g/"
+      },
+      "last_updated": "1491343200"
+    },
+    "09": {
+      "title": "Goku vs Botamo",
+      "volume": "01",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/sjpV1dA/"
+      },
+      "last_updated": "1491343200"
+    },
+    "10": {
+      "title": "La vraie nature de Frost",
+      "volume": "02",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/tj15ity/"
+      },
+      "last_updated": "1499205600"
+    },
+    "11": {
+      "title": "Entrée en scène de Vegeta !!",
+      "volume": "02",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/kNxTEVf/"
+      },
+      "last_updated": "1499205600"
+    },
+    "12": {
+      "title": "La fierté des Saiyans",
+      "volume": "02",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/Rx6NEDo/"
+      },
+      "last_updated": "1499205600"
+    },
+    "13": {
+      "title": "L'annonce de l'univers gagnant !!",
+      "volume": "02",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/a760oau/"
+      },
+      "last_updated": "1499205600"
+    },
+    "14": {
+      "title": "Un SOS venu du futur",
+      "volume": "02",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/qH8nBph/"
+      },
+      "last_updated": "1499205600"
+    },
+    "15": {
+      "title": "Un nouvel espoir",
+      "volume": "02",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/LFgRr5k/"
+      },
+      "last_updated": "1499205600"
+    },
+    "16": {
+      "title": "Le passé de Trunks du futur",
+      "volume": "03",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/gUAsnKT/"
+      },
+      "last_updated": "1516748400"
+    },
+    "17": {
+      "title": "Zamasu, l'apprenti Kaio Shin de l'univers 10",
+      "volume": "03",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/htLOHsF/"
+      },
+      "last_updated": "1516748400"
+    },
+    "18": {
+      "title": "L'identité de Goku Black",
+      "volume": "03",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/HIcY7m8/"
+      },
+      "last_updated": "1516748400"
+    },
+    "19": {
+      "title": "L'autre Zamasu",
+      "volume": "03",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/XG7Yu4W/"
+      },
+      "last_updated": "1516748400"
+    },
+    "20": {
+      "title": "Le plan ''Zéro humain''",
+      "volume": "03",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/MSq38NC/"
+      },
+      "last_updated": "1516748400"
+    },
+    "21": {
+      "title": "Le dernier espoir",
+      "volume": "04",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/pzFtkJU/"
+      },
+      "last_updated": "1530655200"
+    },
+    "22": {
+      "title": "Le dernier recours de Zamasu",
+      "volume": "04",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/10Ao6EH/"
+      },
+      "last_updated": "1530655200"
+    },
+    "23": {
+      "title": "La vraie valeur des potalas",
+      "volume": "04",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/w1bWI8V/"
+      },
+      "last_updated": "1530655200"
+    },
+    "24": {
+      "title": "L'évolution de Son Goku",
+      "volume": "04",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/zEzki8g/"
+      },
+      "last_updated": "1530655200"
+    },
+    "25": {
+      "title": "Goku ou Zamasu ?!",
+      "volume": "05",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/CDDxfOV/"
+      },
+      "last_updated": "1541545200"
+    },
+    "26": {
+      "title": "Adieu Trunks",
+      "volume": "05",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/wB63EYz/"
+      },
+      "last_updated": "1541545200"
+    },
+    "27": {
+      "title": "Entraînement et vie quotidienne...",
+      "volume": "05",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/eJC2xTL/"
+      },
+      "last_updated": "1541545200"
+    },
+    "28": {
+      "title": "Les dieux de la destruction des douze univers",
+      "volume": "05",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/KekmOyN/"
+      },
+      "last_updated": "1541545200"
+    },
+    "29": {
+      "title": "Toppo, futur dieu de la destruction de l'univers 11",
+      "volume": "06",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/DOYUBRA/"
+      },
+      "last_updated": "1549407600"
+    },
+    "30": {
+      "title": "Un homme du nom de Jiren",
+      "volume": "06",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/9dpqpUX/"
+      },
+      "last_updated": "1549407600"
+    },
+    "31": {
+      "title": "Le rassemblement des super combattants !",
+      "volume": "06",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/gfkORRo/"
+      },
+      "last_updated": "1549407600"
+    },
+    "32": {
+      "title": "Le rassemblement des super combattants ! -2-",
+      "volume": "06",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/GCsV1gH/"
+      },
+      "last_updated": "1549407600"
+    },
+    "33": {
+      "title": "Début du tournoi pour la survie de l'univers !",
+      "volume": "07",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/f26Wh1l/"
+      },
+      "last_updated": "1556748000"
+    },
+    "34": {
+      "title": "Le premier univers anéanti",
+      "volume": "07",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/1guRKwq/"
+      },
+      "last_updated": "1556748000"
+    },
+    "35": {
+      "title": "Hit vs Jiren",
+      "volume": "07",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/ybLttSA/"
+      },
+      "last_updated": "1556748000"
+    },
+    "36": {
+      "title": "Des concurrents originaux",
+      "volume": "07",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/8RQjB9l/"
+      },
+      "last_updated": "1556748000"
+    },
+    "37": {
+      "title": "Kale s'éveille au Super Saiyan",
+      "volume": "08",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/ezv3f8c/"
+      },
+      "last_updated": "1562104800"
+    },
+    "38": {
+      "title": "L'ultime recours de l'univers 6",
+      "volume": "08",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/gGk7PLZ/"
+      },
+      "last_updated": "1562104800"
+    },
+    "39": {
+      "title": "Prémices de l'éveil de Son Goku",
+      "volume": "08",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/wGIJsyL/"
+      },
+      "last_updated": "1562104800"
+    },
+    "40": {
+      "title": "Jiren vs l'univers 7",
+      "volume": "08",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/sIT7R1j/"
+      },
+      "last_updated": "1562104800"
+    },
+    "41": {
+      "title": "Le réflexe transcendantal",
+      "volume": "09",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/nr92NDH/"
+      },
+      "last_updated": "1574204400"
+    },
+    "42": {
+      "title": "Conclusion et dénouement",
+      "volume": "09",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/YsSXqgw/"
+      },
+      "last_updated": "1574204400"
+    },
+    "43": {
+      "title": "On intègre la patrouille galactique !",
+      "volume": "09",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/edCxL6e/"
+      },
+      "last_updated": "1574204400"
+    },
+    "44": {
+      "title": "Moro l'évadé",
+      "volume": "09",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/eM5zn7U/"
+      },
+      "last_updated": "1574204400"
+    },
+    "45": {
+      "title": "La magie de Moro",
+      "volume": "10",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/3OVhtuU/"
+      },
+      "last_updated": "1580857200"
+    },
+    "46": {
+      "title": "La planète Namek dépérit",
+      "volume": "10",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/FJMkTdY/"
+      },
+      "last_updated": "1580857200"
+    },
+    "47": {
+      "title": "Main basse sur les Dragon Balls",
+      "volume": "10",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/oYGkG0r/"
+      },
+      "last_updated": "1580857200"
+    },
+    "48": {
+      "title": "Le vœu  de Moro",
+      "volume": "10",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/nIkmVjr/"
+      },
+      "last_updated": "1580857200"
+    },
+    "49": {
+      "title": "Bataille spatiale",
+      "volume": "11",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/F6LvpXk/"
+      },
+      "last_updated": "1593554400"
+    },
+    "50": {
+      "title": "La grande évasion",
+      "volume": "11",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/85AbfNY/"
+      },
+      "last_updated": "1593554400"
+    },
+    "51": {
+      "title": "Chacun de son côté",
+      "volume": "11",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/SVsh5vF/"
+      },
+      "last_updated": "1593554400"
+    },
+    "52": {
+      "title": "Les entraînements de Goku et Vegeta",
+      "volume": "11",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/8FFQCkn/"
+      },
+      "last_updated": "1593554400"
+    },
+    "53": {
+      "title": "Le gang galactique de Saganbo",
+      "volume": "12",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/CkDC7xF/"
+      },
+      "last_updated": "1604444400"
+    },
+    "54": {
+      "title": "Gohan vs Seven-Three",
+      "volume": "12",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/5ovRnTI/"
+      },
+      "last_updated": "1604444400"
+    },
+    "55": {
+      "title": "L'identité de Merus",
+      "volume": "12",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/kwZ7tDy/"
+      },
+      "last_updated": "1604444400"
+    },
+    "56": {
+      "title": "Rassemblement des guerriers terriens",
+      "volume": "12",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/T2mogM6/"
+      },
+      "last_updated": "1604444400"
+    },
+    "57": {
+      "title": "Combats divers",
+      "volume": "13",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/W6NFm6u/"
+      },
+      "last_updated": "1612306800"
+    },
+    "58": {
+      "title": "L'arrivée de Son Goku",
+      "volume": "13",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/xbhCkc1/"
+      },
+      "last_updated": "1612306800"
+    },
+    "59": {
+      "title": "Prémices du réflexe transcendantal",
+      "volume": "13",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/VB1I1Xd/"
+      },
+      "last_updated": "1612306800"
+    },
+    "60": {
+      "title": "L'erreur de Merus",
+      "volume": "13",
+      "groups": {
+        "Chromatique": "/proxy/api/imgur/chapter/ML6lWhW/"
+      },
+      "last_updated": "1612306800"
+    }
+  }
+}
